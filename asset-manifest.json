@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e56cded.css",
-    "main.js": "/static/js/main.1ccc2a3e.js",
-    "static/js/453.304c1d08.chunk.js": "/static/js/453.304c1d08.chunk.js",
-    "index.html": "/index.html",
-    "main.9e56cded.css.map": "/static/css/main.9e56cded.css.map",
-    "main.1ccc2a3e.js.map": "/static/js/main.1ccc2a3e.js.map",
-    "453.304c1d08.chunk.js.map": "/static/js/453.304c1d08.chunk.js.map"
+    "main.css": "/pomodoro/static/css/main.9e56cded.css",
+    "main.js": "/pomodoro/static/js/main.30bc9cf5.js",
+    "static/js/453.304c1d08.chunk.js": "/pomodoro/static/js/453.304c1d08.chunk.js",
+    "index.html": "/pomodoro/index.html",
+    "main.9e56cded.css.map": "/pomodoro/static/css/main.9e56cded.css.map",
+    "main.30bc9cf5.js.map": "/pomodoro/static/js/main.30bc9cf5.js.map",
+    "453.304c1d08.chunk.js.map": "/pomodoro/static/js/453.304c1d08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e56cded.css",
-    "static/js/main.1ccc2a3e.js"
+    "static/js/main.30bc9cf5.js"
   ]
 }
