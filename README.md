@@ -1,7 +1,5 @@
 # 🕒 25 + 5 Clock Pomodoro App
 
-![Pomodoro Clock Banner](https://user-images.githubusercontent.com/your-image-path/clock-banner.png)
-
 A simple and interactive **Pomodoro Timer** built with **React**. Easily switch between work (session) and break intervals, following the classic **25 + 5** productivity method. ⏱️🍅
 
 ---
@@ -19,7 +17,7 @@ A simple and interactive **Pomodoro Timer** built with **React**. Easily switch 
 
 ## 📸 Preview
 
-![App Preview](https://user-images.githubusercontent.com/your-image-path/app-preview.png)
+![App Preview](Pomodoro.png)
 
 ---
 
@@ -35,5 +33,5 @@ A simple and interactive **Pomodoro Timer** built with **React**. Easily switch 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/25-5-clock.git
+   git clone https://github.com/AdesKitty01/25-5-clock.git
    cd 25-5-clock
